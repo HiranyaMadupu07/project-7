@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   return (
-    <div style={{ textAlign: "center", marginTop: "20%" }}>
+    <div style={{ textAlign: "center" }}>
       <h1>Hello World!</h1>
     </div>
   );
